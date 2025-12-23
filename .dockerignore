@@ -1,0 +1,50 @@
+# Git
+.git
+.gitignore
+
+# Environment
+.env
+*.env
+.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Documentation
+*.md
+README.md
+QUICK_START.md
+PROJECT_SUMMARY.md
+
+# Scripts
+setup.sh
+test_api.sh
+example_usage.py
+
+# Docker
+docker-compose.yml
+Dockerfile
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Database
+*.db
+*.sqlite3
